@@ -1,10 +1,10 @@
 # Data and scripts for 'Structure-based chemical ontology improves chemometric prediction of antibacterial essential oils'
 
-Essential oils are known to possess antibacterial activity.
-However, it is difficult to predict the effect because hundreds of compounds can be contribute the effect.
+Essential oils are known to possess various biological activities.
+However, it is difficult to predict their antibacterial activity because hundreds of compounds can be contribute the activity.
 This repository stores the data and scripts to generate results in the paper [^1].
 
-<p align="center"><img src="https://github.com/yabuuchi-hiroaki/graph-embedding-eo-eo-interaction/blob/images/github_overview.jpg"></p>
+<p align="center"><img width="400" src="https://github.com/yabuuchi-hiroaki/chem-ont-predict-eo-activity/blob/images/overview.png"></p>
 
 ## Installation and Dependencies
 
