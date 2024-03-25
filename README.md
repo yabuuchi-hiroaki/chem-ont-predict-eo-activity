@@ -71,8 +71,7 @@ available oils.
 ## References
 [^1]: Yabuuchi H et al. Structure-based chemical ontology improves 
 chemometric prediction of antibacterial essential oils.
- ChemRxiv (posted on Mar XX, 2024) doi: [10.26434/chemrxiv-xxxxx](
-https://doi.org/10.26434/chemrxiv-xxxxx).
+ Research Square (posted on Mar 25, 2024).
 [^2]: Yabuuchi H et al. In vitro and in silico prediction of 
 antibacterial interaction between essential oils via graph embedding 
 approach.
